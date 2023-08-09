@@ -16,9 +16,9 @@
 
 ## My Projects
 
-- 🚗 **FiveM Server**: Recently, I have been developing my own FiveM server called London City Network. Join our community and embark on exciting roleplaying adventures in the heart of London!
+- 🚗 **FiveM Server**: Recently, I have been developing my own FiveM server called London City Network. Join our community and embark on exciting roleplaying adventures in London City Network!
   [Join Discord](https://discord.gg/ruwCgbMd)
-- 🌐 **Web Applications**: While there are no ongoing web application projects at the moment, the future holds exciting potential. Stay tuned for upcoming developments!
+- 🌐 **Web Applications**: While there are no ongoing web application projects at the moment, the future holds exciting potential for me. Stay tuned for upcoming developments from me while you watch me learn!
 - 🏢 **MLOs for FiveM**: Currently still working on publishing my custom MLO's for the public to edit/learn/utilise.
 
 ## GitHub Stats

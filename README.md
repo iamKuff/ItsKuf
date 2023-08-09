@@ -8,7 +8,7 @@
 
 ## About Me
 
-👋 Hi, I'm ItsKuf, a passionate developer and 3D modeler in the FiveM community. I love creating immersive experiences through simple FiveM sciripts, web applications, and custom MLOs for FiveM servers.
+👋 Hi, I'm ItsKuf, a developer and 3D modeler in the FiveM community. I love creating immersive experiences through simple FiveM sciripts, web applications, and custom MLOs for FiveM servers.
 
 - 🔭 I’m currently working on exciting FiveM projects and web development ventures.
 - 🌱 I’m continuously learning and improving my skills in Lua, JavaScript, and 3D modeling.
